@@ -1373,7 +1373,7 @@ yyreduce:
   case 4:
 /* Line 1792 of yacc.c  */
 #line 29 "calc.y"
-    {printf("Printing %d\n", (yyvsp[(2) - (3)].num));}
+    {printf("hasil %d\n", (yyvsp[(2) - (3)].num));}
     break;
 
   case 5:
@@ -1385,7 +1385,7 @@ yyreduce:
   case 6:
 /* Line 1792 of yacc.c  */
 #line 31 "calc.y"
-    {printf("Printing %d\n", (yyvsp[(3) - (4)].num));}
+    {printf("hasil %d\n", (yyvsp[(3) - (4)].num));}
     break;
 
   case 7:
